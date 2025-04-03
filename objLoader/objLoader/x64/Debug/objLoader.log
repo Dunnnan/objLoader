@@ -1,8 +1,3 @@
 ﻿  objLoader.cpp
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": ponowna definicja makra
-  (kompilowanie pliku źródłowego „objLoader.cpp”)
-  C:\Users\Maria\Desktop\2025 Projects\obj_loader\objLoader\glfw\include\GLFW\glfw3.h(123,1):
-  zobacz poprzednią definicję „APIENTRY”
-  
-C:\Users\Maria\Desktop\2025 Projects\obj_loader\objLoader\objLoader.cpp(134,69): warning C4129: ">": nierozpoznany znak sekwencji ucieczki
+C:\Users\Maria\Desktop\2025 Projects\obj_loader\objLoader\objLoader.cpp(127,69): warning C4129: ">": nierozpoznany znak sekwencji ucieczki
   objLoader.vcxproj -> C:\Users\Maria\Desktop\2025 Projects\obj_loader\objLoader\x64\Debug\objLoader.exe

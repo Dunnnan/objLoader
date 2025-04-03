@@ -68,4 +68,3 @@ Each of these cautions may be addressed in future updates.
    If the .obj file contains multiple parts with different textures, the program should create a separate header file for each part. This would allow for better organization and modularity when working with complex models.
 4. **Error handling improvements**
    Implementing better error handling and providing more detailed error messages would improve the user experience, especially in cases where the .obj file contains unexpected data or format issues.
->>>>>>> 021313822dd7a12a59f60262b408aeb92530d75a

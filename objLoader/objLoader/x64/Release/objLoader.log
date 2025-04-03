@@ -1,0 +1,2 @@
+﻿  objLoader.cpp
+C:\Users\Maria\Desktop\Game\gkiw_st_12_win\obj_loader\objLoader\objLoader.cpp(4,10): error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
